@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-### Teaching Assistant for ECON 202: Principle of Microeconomics
+### Teaching Assistant for ECON 202: Principles of Microeconomics
 Dr. Jonathan Meer; Spring 2022 - Spring 2023
 
 Texas A&M Department of Economics
