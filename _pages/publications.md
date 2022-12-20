@@ -4,12 +4,6 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
----
 ### "Sets in Rd determining k taxicab distances"
 Involve vol. 13 (2020), no. 3, 487-509.
 
