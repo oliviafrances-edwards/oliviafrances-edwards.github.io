@@ -21,7 +21,7 @@ We begin by revisiting a paper of Erdős and Fishburn, which posed the following
 
 
 
-# Working Papers
+<!--# Working Papers
 
 ### "School Choice and Charter Market Power: An Analysis of Charter School Management Organization Merger and Acquisitions"
 2023
@@ -31,7 +31,7 @@ Drawing upon the traditional Industrial Organization (IO) framework, the analysi
 ### "Evaluating the Effects of and Parental Preferences for Special Education"
 2023
 
-Employing an oversubscribed lottery-IV identification strategy, we examine the effects of attending these specialized charter schools on various educational outcomes for students with special education (SPED) needs. Additionally, we investigate treatment effect heterogeneity by exploring the impact of different instructional styles within these schools. We explore the alignment between parental preferences and the effectiveness of instructional approaches in catering to the needs of SPED students. By examining the results from the oversubscribed lottery-IV identification, we are able to identify the causal effects of attending SPED-oriented charter schools on academic achievement, social-emotional development, and other key outcomes. Moreover, we delve into parental preferences for SPED educational settings through the application of a structural demand model. This analysis enables us to assess whether parental preferences align with the reduced-form evidence on instructional effectiveness for SPED students. By comparing parental preferences with the outcomes observed in the oversubscribed lottery-IV identification, we gain insights into potential misalignments and areas of improvement in meeting the needs of SPED students.
+Employing an oversubscribed lottery-IV identification strategy, we examine the effects of attending these specialized charter schools on various educational outcomes for students with special education (SPED) needs. Additionally, we investigate treatment effect heterogeneity by exploring the impact of different instructional styles within these schools. We explore the alignment between parental preferences and the effectiveness of instructional approaches in catering to the needs of SPED students. By examining the results from the oversubscribed lottery-IV identification, we are able to identify the causal effects of attending SPED-oriented charter schools on academic achievement, social-emotional development, and other key outcomes. Moreover, we delve into parental preferences for SPED educational settings through the application of a structural demand model. This analysis enables us to assess whether parental preferences align with the reduced-form evidence on instructional effectiveness for SPED students. By comparing parental preferences with the outcomes observed in the oversubscribed lottery-IV identification, we gain insights into potential misalignments and areas of improvement in meeting the needs of SPED students.-->
 
 
 
